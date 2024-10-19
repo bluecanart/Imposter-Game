@@ -9,5 +9,5 @@ export default defineConfig({
   css:{
     postcss
   },
-  base: '/vite-deploy-demo/'
+  base: '/imposter-game/'
 })
