@@ -85,7 +85,7 @@
 </script>
 
 <!-- UI for the game -->
-<div class="p-4 max-w-4xl mx-auto">
+<div class="p-4 max-w-4xl mx-auto font-sans">
   <!-- Category display -->
   <h1 class="text-2xl font-bold mb-4 text-center">
     Category: {selectedCategory}
