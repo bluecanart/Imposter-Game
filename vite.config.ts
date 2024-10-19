@@ -9,5 +9,5 @@ export default defineConfig({
   css:{
     postcss
   },
-  base: '/imposter-game/'
+  base: '/imposter-game'
 })
